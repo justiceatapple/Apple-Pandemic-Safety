@@ -1,0 +1,1113 @@
+Received: from rn-mailsvcp-mta-lapp04.rno.apple.com ([10.225.203.152])
+ by mail3.rno.apple.com
+ (Oracle Communications Messaging Server 8.1.0.7.20201203 64bit (built Dec  3
+ 2020)) with ESMTPS id <0QUO00B86XCYSU60@mail3.rno.apple.com> for
+ ashleygjovik@apple.com; Mon, 14 Jun 2021 05:00:34 -0700 (PDT)
+Original-recipient: rfc822;ashleygjovik@apple.com
+Return-path: <groupmailer@group.apple.com>
+Received: from group.apple.com ([127.0.0.1])
+ by rn-mailsvcp-mta-lapp04.rno.apple.com
+ (Oracle Communications Messaging Server 8.1.0.9.20210415 64bit (built Apr 15
+ 2021)) with ESMTP id <0QUO00MFFXCY8C00@rn-mailsvcp-mta-lapp04.rno.apple.com>
+ for ashleygjovik@apple.com; Mon, 14 Jun 2021 05:00:34 -0700 (PDT)
+Received: from rn-mailsvcp-relay-lapp02.rno.apple.com
+ (rn-mailsvcp-relay-lapp02.rno.apple.com [17.179.253.11])
+ by rn-mailsvcp-mta-lapp04.rno.apple.com
+ (Oracle Communications Messaging Server 8.1.0.9.20210415 64bit (built Apr 15
+ 2021)) with ESMTPS id <0QUO0118PXCW1BH0@rn-mailsvcp-mta-lapp04.rno.apple.com>
+ for Remote_Work_Advocacy@group.apple.com; Mon, 14 Jun 2021 05:00:32 -0700 (PDT)
+Received: from process_milters-daemon.rn-mailsvcp-relay-lapp02.rno.apple.com by
+ rn-mailsvcp-relay-lapp02.rno.apple.com
+ (Oracle Communications Messaging Server 8.1.0.9.20210415 64bit (built Apr 15
+ 2021)) id <0QUO00D00XC14000@rn-mailsvcp-relay-lapp02.rno.apple.com> for
+ Remote_Work_Advocacy@group.apple.com; Mon, 14 Jun 2021 05:00:32 -0700 (PDT)
+X-Va-A:
+X-Va-T-CD: e89a22f312a6882c2c32ecca0ba0fa7c
+X-Va-E-CD: 3de2aed0edeb08da791b4ab177fe127e
+X-Va-R-CD: 7e2ace66a36da64672134c1071456cd3
+X-Va-CD: 0
+X-Va-ID: a6fd1e92-ce03-4c95-9635-969b931c9509
+X-V-A:
+X-V-T-CD: e89a22f312a6882c2c32ecca0ba0fa7c
+X-V-E-CD: 3de2aed0edeb08da791b4ab177fe127e
+X-V-R-CD: 7e2ace66a36da64672134c1071456cd3
+X-V-CD: 0
+X-V-ID: 9818df81-632f-4c64-9763-2776dfbc6965
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10434:6.0.391,18.0.761
+ definitions=2021-06-14_07:2021-06-14,2021-06-14 signatures=0
+Received: from rn2-txn-msbadger02107.apple.com
+ (rn2-txn-msbadger02107.rno.apple.com [17.111.110.58])
+ by rn-mailsvcp-relay-lapp02.rno.apple.com
+ (Oracle Communications Messaging Server 8.1.0.9.20210415 64bit (built Apr 15
+ 2021))
+ with ESMTPS id <0QUO00E69XCPPU00@rn-mailsvcp-relay-lapp02.rno.apple.com> for
+ Remote_Work_Advocacy@group.apple.com; Mon, 14 Jun 2021 05:00:25 -0700 (PDT)
+Date: Mon, 14 Jun 2021 12:00:25 +0000 (GMT)
+From: Remote Work Advocacy <Remote_Work_Advocacy@group.apple.com>
+Reply-to: Remote_Work_Advocacy@group.apple.com
+To: tcook@apple.com, obrien.d@apple.com
+Message-id: <1560577598.14796802.1623672025248@email.apple.com>
+Subject: =?UTF-8?Q?Let=E2=80=99s_Welcome_Everyone_Forward?=
+MIME-version: 1.0
+Content-type: multipart/alternative;
+ boundary="----=_Part_14796800_2087482618.1623672025248"
+X-EmailType-Id: 765120
+X-Sent-To:
+ tcook@apple.com,2,Vkav6CYcqTtqOa1ha1%2BMlDK4UEN74Sb5lkBmGWKyBk1IUZNdkxlyJLn4BGgNXpxu%2FAm54Pk7ZxPoAwGfJJTbUNv6s5kuk3vk0p8JZctEsZNbRt4RwGp%2BIwAcDz4Fkso4oEU5PjKS3hDLXtYKC9WZaYgcVzNznO%2Bi3rT48%2FSvm4w8MxtMjRSJHHZDSq3dx87ChkNHDzbFLzKwuZzoWF1B3sWlkECx1u8CB89Y1KPjUbdTdige8RVj2E5db3wRpdmi8vWEGt3s5Avz8IfP80HmOMfDrswTRVpCHMqM3nBdPpqPEghIgOhYUFHJcaXYYivANsuoocNqCWFayRCYxGWgCdfZhVNlB3z9Kw7rzodJGV9geOM0Rp0GXIwuJhYlMLtoUyBahQwhOc2sBX%2BFj56bHbseSxth81lklzYIGjrs0qFgkGM3H8AuIsEf7CKSQDHP
+X-COMMS-C: false
+Auto-submitted: auto-generated
+X-Business-Group: ETS-DTS
+X-Attach-Flag: N
+X-TXN_ID: 2cdbebe7-6b0b-4910-b310-8e8b0a2ed5fd
+X-DKIM_SIGN_REQUIRED: YES
+Precedence: List
+Sender: Remote_Work_Advocacy@group.apple.com
+List-Id: <Remote_Work_Advocacy@group.apple.com>
+X-Member-Count: 3
+
+------=_Part_14796800_2087482618.1623672025248
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: QUOTED-PRINTABLE
+Content-Disposition: inline
+
+<!DOCTYPE html>
+<?xml encoding=3D"utf-8" ?><?xml encoding=3D"utf-8" ?><html>
+<head>
+<meta charset=3D"UTF-8">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
+0, minimum-scale=3D1.0, user-scalable=3Dno">
+<title>Title</title>
+<style>
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+blockquote,
+q {
+  quotes: none;
+}
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: '';
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+strong,
+b,
+strong *,
+b * {
+  font-weight: bold;
+}
+em,
+i,
+em *,
+i * {
+  font-style: italic;
+}
+/*---------Start Variable Setup---------*/
+/*---------End Variable Setup---------*/
+/*---------Start Main Setup---------*/
+.MailMessagePane table {
+  width: 100%;
+  -webkit-border-horizontal-spacing: 0px;
+  -webkit-border-vertical-spacing: 0px;
+}
+.MailMessagePane #wrapper {
+  width: 100%;
+  margin: auto;
+  padding: 0;
+}
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+  font-size: 16px;
+  font-family: -apple-system, 'Helvetica Neue', sans-serif;
+  letter-spacing: -0.01em;
+  line-height: 1.1em;
+  -webkit-font-smoothing: antialiased;
+}
+body * {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.wrapper-container {
+  max-width: 100%;
+  margin: auto;
+  padding: 0;
+}
+section {
+  margin: 30px 0;
+  padding: 0 4px;
+}
+a:link,
+a:visited {
+  color: #0c84db;
+  text-decoration: underline;
+}
+a:hover {
+  text-decoration: underline;
+}
+a [x-apple-data-detectors] {
+  color: inherit !important;
+  text-decoration: none !important;
+  font-size: inherit !important;
+  font-family: inherit !important;
+  font-weight: inherit !important;
+  line-height: inherit !important;
+}
+img {
+  border: 0;
+}
+.mobile {
+  display: none;
+}
+.osx-only {
+  display: inline-block !important;
+}
+.ios-only {
+  display: none !important;
+}
+.container {
+  max-width: 768px;
+  padding: 0 65px;
+  margin: 0 auto;
+  overflow: auto;
+}
+.role {
+  width: 100%;
+  padding: 18px 0 0 0;
+  margin: 0 auto;
+}
+.grid-12 {
+  width: 100%;
+  max-width: 100%;
+  clear: both;
+}
+.grid-11 {
+  width: 91.6666666667%;
+}
+.grid-10 {
+  width: 83.3333333333%;
+}
+.grid-9 {
+  width: 75%;
+}
+.grid-8 {
+  width: 66.6666666667%;
+}
+.grid-7 {
+  width: 58.3333333334%;
+}
+.grid-6 {
+  width: 50%;
+}
+.grid-5 {
+  width: 41.6666666667%;
+}
+.grid-4 {
+  width: 33.3333333334%;
+}
+.grid-3 {
+  width: 25%;
+}
+.grid-2 {
+  width: 16.6666666667%;
+}
+.grid-1 {
+  width: 8.33333333333%;
+}
+div[class*=3D'push-'] {
+  position: relative;
+}
+.push-2 {
+  left: 16.666667%;
+}
+.push-3 {
+  left: 25%;
+}
+.push-4 {
+  left: 33.333333%;
+}
+.push-5 {
+  left: 41.666667%;
+}
+.push-6 {
+  left: 50%;
+}
+.push-7 {
+  left: 58.333333%;
+}
+.push-8 {
+  left: 66.666667%;
+}
+.push-9 {
+  left: 75%;
+}
+.push-10 {
+  left: 83.333333%;
+}
+div[class*=3D'pull-'] {
+  position: relative;
+}
+.pull-2 {
+  right: 16.666667%;
+}
+.pull-3 {
+  right: 25%;
+}
+.pull-4 {
+  right: 33.333333%;
+}
+.pull-5 {
+  right: 41.666667%;
+}
+.pull-6 {
+  right: 50%;
+}
+.pull-7 {
+  right: 58.333333%;
+}
+.pull-8 {
+  right: 66.666667%;
+}
+.pull-9 {
+  right: 75%;
+}
+.pull-10 {
+  right: 83.333333%;
+}
+div[class*=3D'grid-'] {
+  float: left;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+div[class*=3D'grid-']:first-child {
+  padding-left: 0;
+}
+div[class*=3D'grid-']:last-child {
+  padding-right: 0;
+}
+.clearfix:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+.container:after,
+header:after,
+section:after,
+.role:after,
+.wrapper-container {
+  content: "";
+  display: block;
+  clear: both;
+}
+.ax-img {
+  margin: 0 0 -1px 0 !important;
+}
+@media only screen and (max-width: 640px) {
+  .osx-only {
+    display: none !important;
+  }
+  .ios-only {
+    display: inline-block !important;
+  }
+  a[x-apple-data-detectors] {
+    color: inherit !important;
+    text-decoration: none !important;
+    font-size: inherit !important;
+    font-family: inherit !important;
+    font-weight: inherit !important;
+    line-height: inherit !important;
+  }
+  body {
+    margin: 0;
+    padding: 0;
+  }
+  .wrapper-container {
+    max-width: 100%;
+    padding: 0;
+    margin: 0;
+  }
+  section {
+    margin: 30px 0;
+    padding: 0;
+  }
+  .mobile {
+    display: inherit;
+  }
+  .desktop {
+    display: none;
+  }
+  div[class*=3D'grid-'] {
+    float: none;
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 100% !important;
+    clear: both;
+    padding-left: 0;
+  }
+  div[class*=3D'push-'] {
+    left: auto;
+  }
+  div[class*=3D'pull-'] {
+    right: auto;
+  }
+  .container {
+    max-width: 100%;
+    padding: 0 25px;
+    margin: 0;
+  }
+}
+/*---------End Main Setup---------*/
+/*---------Start Typography Setup---------*/
+header h1 {
+  font-size: 2.25em;
+  line-height: 1.1em;
+  font-weight: 400;
+  color: #010101;
+}
+header h2,
+header p {
+  font-size: 1.25em;
+  line-height: 1.1em;
+}
+header a:link,
+header a:visited {
+  text-decoration: underline;
+}
+header a:hover {
+  text-decoration: underline;
+}
+section h2 {
+  font-size: 1.375em;
+  line-height: 1.2em;
+  margin-bottom: 5px;
+  margin-top: 24px;
+  color: #010101;
+}
+section p,
+section ul {
+  font-size: 1em;
+  line-height: 23px;
+  color: #333;
+}
+section li {
+  font-size: 1em;
+  line-height: 24px;
+  color: #333;
+}
+section ul,
+section ol {
+  list-style-position: outside;
+  padding-left: 20px;
+}
+section ul ul,
+section ol ul,
+section ul ol,
+section ol ol {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+section ul {
+  list-style-type: disc;
+}
+section ol {
+  list-style-type: decimal;
+}
+section a:link,
+section a:visited {
+  text-decoration: underline;
+}
+section a:hover {
+  text-decoration: underline;
+}
+footer p {
+  font-size: 0.875em;
+  line-height: 1em;
+  font-weight: 400;
+  color: #666;
+}
+@media only screen and (max-width: 640px) {
+  header h1 {
+    font-size: 1.875em;
+  }
+  header h2,
+  header p {
+    font-size: 1.25em;
+  }
+  section h2 {
+    font-size: 1.25em;
+    margin-top: 15px;
+  }
+  section p,
+  section ul li,
+  section ol li {
+    font-size: 1em !important;
+  }
+  section .mobile-br {
+    display: block;
+  }
+  footer p {
+    $paragraph-text-size: !important;
+  }
+}
+/*---------End Typography Setup---------*/
+/*----------Header Setup-------------*/
+header .container {
+  height: 110px;
+  padding: 10px 65px;
+  border-bottom: 2px solid;
+}
+header .container .header-wrapper {
+  padding-top: 15px;
+}
+header .container .header-wrapper h1 {
+  text-align: left;
+  font-size: 1.5em;
+  font-weight: 700;
+  margin: 0;
+  float: left;
+  width: 45%;
+}
+header .container .header-wrapper p {
+  text-align: left;
+  font-size: 1.2em;
+  font-weight: 700;
+  float: right;
+  width: 45%;
+  text-align: right;
+}
+header .container .header-wrapper h2 {
+  font-size: 1.375em;
+  line-height: 1.3em;
+  text-align: left;
+  color: #fff;
+  font-weight: 300;
+  padding-bottom: 20px;
+  float: left;
+  width: 100%;
+}
+@media only screen and (max-width: 640px) {
+  header .container {
+    height: 180px !important;
+    padding: 20px 35px !important;
+  }
+  header .container .header-wrapper h1 {
+    margin-bottom: 5px;
+  }
+  header .container .header-wrapper h1,
+  header .container .header-wrapper p {
+    width: 100%;
+    float: none;
+    text-align: left;
+  }
+}
+/*----------END Header Setup-------------*/
+/*-------------Start Footer Setup------------*/
+footer .container {
+  padding-left: 0;
+  padding-right: 0;
+  height: 40px;
+  clear: both;
+}
+footer .container .footer-content {
+  background-color: #f2f2f2;
+  padding: 5px;
+  border-top: 1px solid #999;
+}
+footer .container .footer-content p {
+  margin-top: 8px;
+  margin-bottom: 8px;
+  line-height: 1.143em;
+  text-align: center;
+}
+footer .container .footer-content p a {
+  color: #666 !important;
+  text-decoration: underline !important;
+}
+@media only screen and (max-width: 640px) {
+  footer .container .footer-content p {
+    margin-top: 2px;
+    margin-bottom: 2px;
+  }
+}
+/*-------------End Footer Setup------------*/
+/*---------Start Element Setup---------*/
+/*  Add imports of .styl files below */
+/*---------End Element Setup---------*/
+/*-------------Start BRANCH Setup------------*/
+/*  Add imports of .styl files to add custom styles to your branch */
+section a:link,
+section a:visited {
+  text-decoration: underline;
+}
+.container {
+  padding: 0 65px;
+  overflow: unset;
+}
+.container.full-width {
+  padding: 0;
+}
+.container.article h2 {
+  margin-top: 0;
+}
+.container.article .grid-6.kill-padding {
+  padding: 0;
+}
+.container.article .grid-6.right-grid-text {
+  padding-left: 0;
+}
+.container.article .color-box {
+  min-height: 285px;
+  max-width: 285px;
+  width: 100%;
+  padding: 20px;
+}
+.container.article .color-box.color-box-right {
+  float: right;
+}
+.container.article .color-box.color-box-left {
+  float: left;
+}
+.container.article .color-box h2 {
+  margin-top: 0;
+}
+.container .right-column {
+  padding-left: 15px;
+}
+.container .left-column {
+  padding-right: 15px;
+}
+.container .image-dropzone.square {
+  width: 160px;
+  height: 160px;
+}
+.container .image-dropzone.rec {
+  min-width: 250px;
+  height: 195px;
+}
+.container .image-dropzone.rec.two-up-img {
+  margin-bottom: 20px;
+}
+.container .image-dropzone.large {
+  max-width: 605px;
+  height: 300px;
+  margin: auto;
+  margin-bottom: 30px;
+}
+.container .cta {
+  line-height: 25px;
+}
+.container .grid-12 {
+  position: relative;
+}
+.container .lg-square {
+  height: 285px;
+  width: 285px;
+}
+.container .lg-square.right {
+  float: right;
+}
+.container .lg-square.left {
+  float: left;
+}
+.container .grid-6.set-right {
+  position: relative;
+  left: 51.25%;
+  padding-right: 0px;
+}
+@media only screen and (max-width: 600px) {
+  .container .image-dropzone.large {
+    max-width: 347px;
+    max-height: 172.06611570247935px;
+  }
+}
+@media only screen and (max-width: 500px) {
+  .container .image-dropzone {
+    margin: 0;
+  }
+  .container .image-dropzone.large {
+    max-width: 300px;
+    max-height: 148.7603305785124px;
+  }
+  .container .image-dropzone.rec {
+    max-height: 140.4px;
+    margin-bottom: 20px;
+  }
+}
+@media only screen and (max-width: 640px) {
+  .container.article .color-box {
+    width: 305px;
+    margin: auto;
+  }
+  .container.article .color-box.color-box-right {
+    position: relative;
+    left: -3px;
+  }
+  .container.article .color-box.color-box-right,
+  .container.article .color-box.color-box-left {
+    float: none;
+  }
+  .container.article .grid-6.set-right {
+    left: initial;
+    padding-right: initial;
+  }
+  .container.article .lg-square {
+    height: 285px;
+    width: 285px;
+    float: none;
+  }
+  section .container {
+    padding: 0 35px;
+  }
+  section .right-column {
+    padding-left: 0 !important;
+    padding-top: 20px !important;
+  }
+  section .left-column {
+    padding-right: 0 !important;
+  }
+  section .image-dropzone.rec {
+    max-height: 140.4px;
+    margin-bottom: 20px;
+  }
+}
+@media only screen and (max-width: 320px) {
+  .container .color-box {
+    width: 250px;
+  }
+  .container .lg-square {
+    height: 250px;
+    width: 250px;
+  }
+}
+body.nl-grey .cta a,
+body.nl-grey .article a {
+  color: #888;
+}
+body.nl-grey header .nl-line .container {
+  border-color: #888;
+}
+body.nl-grey header .nl-line h1,
+body.nl-grey header .nl-line h2,
+body.nl-grey header .nl-line p {
+  color: #888;
+}
+body.nl-grey header .nl-solid .container {
+  border: none;
+  background-color: #888;
+}
+body.nl-grey header .nl-solid .container h1,
+body.nl-grey header .nl-solid .container p {
+  color: #fff;
+}
+body.nl-grey .color-box {
+  border: 3px solid #888;
+}
+body.nl-grey .color-box p,
+body.nl-grey .color-box h2 {
+  color: #888;
+}
+body.nl-black .cta a,
+body.nl-black .article a {
+  color: #010101;
+}
+body.nl-black header .nl-line .container {
+  border-color: #010101;
+}
+body.nl-black header .nl-line h1,
+body.nl-black header .nl-line h2,
+body.nl-black header .nl-line p {
+  color: #010101;
+}
+body.nl-black header .nl-solid .container {
+  border: none;
+  background-color: #010101;
+}
+body.nl-black header .nl-solid .container h1,
+body.nl-black header .nl-solid .container p {
+  color: #fff;
+}
+body.nl-black .color-box {
+  border: 3px solid #010101;
+}
+body.nl-black .color-box p,
+body.nl-black .color-box h2 {
+  color: #010101;
+}
+body.nl-green .cta a,
+body.nl-green .article a {
+  color: #006a1c;
+}
+body.nl-green header .nl-line .container {
+  border-color: #00bf6b;
+}
+body.nl-green header .nl-line h1,
+body.nl-green header .nl-line h2,
+body.nl-green header .nl-line p {
+  color: #00bf6b;
+}
+body.nl-green header .nl-solid .container {
+  border: none;
+  background-color: #00bf6b;
+}
+body.nl-green header .nl-solid .container h1,
+body.nl-green header .nl-solid .container p {
+  color: #fff;
+}
+body.nl-green .color-box {
+  border: 3px solid #00bf6b;
+}
+body.nl-green .color-box p,
+body.nl-green .color-box h2 {
+  color: #006a1c;
+}
+body.nl-blue .cta a,
+body.nl-blue .article a {
+  color: #377c97;
+}
+body.nl-blue header .nl-line .container {
+  border-color: #4393b2;
+}
+body.nl-blue header .nl-line h1,
+body.nl-blue header .nl-line h2,
+body.nl-blue header .nl-line p {
+  color: #4393b2;
+}
+body.nl-blue header .nl-solid .container {
+  border: none;
+  background-color: #4393b2;
+}
+body.nl-blue header .nl-solid .container h1,
+body.nl-blue header .nl-solid .container p {
+  color: #fff;
+}
+body.nl-blue .color-box {
+  border: 3px solid #4393b2;
+}
+body.nl-blue .color-box p,
+body.nl-blue .color-box h2 {
+  color: #377c97;
+}
+body.nl-orange .cta a,
+body.nl-orange .article a {
+  color: #952800;
+}
+body.nl-orange header .nl-line .container {
+  border-color: #e0501b;
+}
+body.nl-orange header .nl-line h1,
+body.nl-orange header .nl-line h2,
+body.nl-orange header .nl-line p {
+  color: #e0501b;
+}
+body.nl-orange header .nl-solid .container {
+  border: none;
+  background-color: #e0501b;
+}
+body.nl-orange header .nl-solid .container h1,
+body.nl-orange header .nl-solid .container p {
+  color: #fff;
+}
+body.nl-orange .color-box {
+  border: 3px solid #e0501b;
+}
+body.nl-orange .color-box p,
+body.nl-orange .color-box h2 {
+  color: #952800;
+}
+.container .right-grid-text {
+  padding-left: 50px;
+}
+.container .right-grid-text h2,
+.container .right-grid-text:first-of-type {
+  margin-top: 0;
+}
+@media only screen and (max-width: 640px) {
+  .container .right-grid-text {
+    padding-left: 0px;
+  }
+}
+/*-------------End BRANCH Setup------------*/
+</style>
+</head>
+<body class=3D"nl-blue">
+<div id=3D"wrapper">
+  <div class=3D"wrapper-container">
+    <header><div class=3D"nl-solid">
+=09<div class=3D"container">
+=09  <div class=3D"grid-12">
+=09    <div class=3D"header-wrapper">
+=09      <h1 class=3D"comms-creator-editable-text">Remote Work Advocacy</h1=
+>
+=09      <p class=3D"comms-creator-editable-text">June 2021</p>
+=09=09  <h2 class=3D"">Welcome <em>everyone</em> forward.</h2>
+=09    </div>
+<!-- close header-wrapper -->
+=09  </div>
+<!-- close grid-12 -->
+=09</div>
+<!-- close container -->
+</div>
+    </header><section><!-- Add your code to this directory when working in =
+a branch --><!-- Work in this file or add more files =E2=80=93 it's up to y=
+ou :-) --><div class=3D"container article">
+  <div class=3D"grid-12">
+    <div class=3D"">
+<p>Dear Tim and Deirdre,</p>
+<p><br></p>
+<p>We all agree that we are here at Apple to make insanely great products t=
+hat enrich people=E2=80=99s lives and the world. We are convinced that we c=
+an create the same, and even better products by adding more flexibility to =
+the announced return to office policy. We would like to share some thoughts=
+ and ideas with you from the Apple community.</p>
+<p><br></p>
+<p>Linked=C2=A0<a href=3D"https://apple.box.com/v/remoteworkletter" rel=3D"=
+nofollow noopener noreferrer" target=3D"_blank">here</a>=C2=A0is a detailed=
+ and heartfelt letter signed by 1,768 of our colleagues. Supporting documen=
+ts like  survey results can be found=C2=A0<a href=3D"https://apple.box.com/=
+v/remoteworkadvocacy" rel=3D"nofollow noopener noreferrer" target=3D"_blank=
+">here</a>. </p>
+<p><br></p>
+<p>We=E2=80=99d like to especially highlight the more than 90=C2=A0<a href=
+=3D"https://apple.box.com/v/remoteworkstories" rel=3D"nofollow noopener nor=
+eferrer" target=3D"_blank">personal anecdotes</a> our colleagues wrote abou=
+t how this new policy will affect them personally. We urge you to take some=
+ time this week and read through some of their touching stories.</p>
+</div>
+  </div>
+    <div class=3D"grid-12" style=3D"padding: 30px 0;">
+      <div class=3D"image-divider" style=3D"border-color: rgb(224, 222, 222=
+); text-align: center; border-top-width: 1px; border-top-style: solid;">
+      </div>
+  </div>
+</div>
+
+<div class=3D"container article">
+  <div class=3D"grid-12">
+    <div class=3D"grid-5">
+      <div class=3D"image-dropzone rec" style=3D"position: relative; overfl=
+ow: hidden;">
+      <img src=3D"https://gnv.apple.com/GenevaTrafficServer/GetAsset/istweb=
+.prod.asset.media/603004-1623610661698_COMPOSER-ASSET_COMMID-603004.png" al=
+t=3D"" style=3D"position: absolute; transform: translate(-50%, -50%) rotate=
+(0deg); height: 78.97435897435898%; width: auto; opacity: 1; left: 50%; top=
+: 50%;">
+</div>
+    </div>
+    <div class=3D"grid-7 right-grid-text">
+      <div class=3D"comms-creator-editable-text">
+<h2>From our home offices...</h2>
+<p>A number of colleagues wished to personally voice this letter to you, av=
+ailable here:=C2=A0</p>
+<p><br></p>
+<ul>
+<li><a href=3D"phantom://6f159494" rel=3D"nofollow noopener noreferrer" tar=
+get=3D"_blank">Phantom</a></li>
+<li>
+<a href=3D"https://apple.ent.box.com/folder/139130756558" rel=3D"nofollow n=
+oopener noreferrer" target=3D"_blank">Box</a>=C2=A0<em>(Only accessible to =
+Tim & Deirdre)</em>
+</li>
+</ul>
+</div>
+     =20
+    </div>
+  </div>
+  <div class=3D"grid-12" style=3D"padding: 30px 0;">
+      <div class=3D"image-divider" style=3D"border-color: rgb(224, 222, 222=
+); text-align: center; border-top-width: 1px; border-top-style: solid;">
+      </div>
+  </div>
+</div>
+
+<div class=3D"container article">
+  <div class=3D"grid-12">
+      <div class=3D"comms-creator-editable-text">
+<h2>Highlights of the data gathered:</h2>
+<ul>
+<li>87.1% (1,519) voiced their concern that some of our colleagues will lea=
+ve Apple</li>
+<li>67.7% (1,175) are worried that=C2=A0they themselves=C2=A0will have to m=
+ake the difficult decision to resign</li>
+</ul>
+</div>
+     =20
+  </div>
+
+  <div class=3D"grid-12" style=3D"padding: 30px 0;">
+      <div class=3D"image-divider" style=3D"border-color: rgb(224, 222, 222=
+); text-align: center; border-top-width: 1px; border-top-style: solid;">
+      </div>
+  </div>
+</div>
+<div class=3D"container article">
+  <div class=3D"grid-12">
+      <div class=3D"comms-creator-editable-text">
+<p>We understand the situation is complicated, and there is a large burden =
+on the People team and managers in considering more change. Now that the fr=
+enzy of WWDC has died down, we hope you will allow this feedback to help sh=
+ape a future of location-flexible and=C2=A0inclusive work at Apple which en=
+ables us all to achieve the goal of making the absolute best products.</p>
+<p><br></p>
+<p>Sincerely,</p>
+<p><em><a href=3D"https://apple.ent.box.com/folder/139130756558" rel=3D"nof=
+ollow noopener noreferrer" target=3D"_blank">The Undersigned</a>=C2=A0(only=
+ accessible to Tim & Deirdre)</em></p>
+</div>
+     =20
+  </div>
+
+  <div class=3D"grid-12" style=3D"padding: 30px 0;">
+      <div class=3D"image-divider" style=3D"border-color: rgb(224, 222, 222=
+); text-align: center; border-top-width: 1px; border-top-style: solid;">
+      </div>
+  </div>
+</div>
+<div class=3D"container article">
+  <div class=3D"grid-12">
+      <div class=3D""><p><em>Note:=C2=A0The resources shared here will also=
+ be shared with our #remote-work-advocacy Slack channel at 9am PDT this mor=
+ning.</em></p></div>
+     =20
+  </div>
+
+  <div class=3D"grid-12" style=3D"padding: 30px 0;">
+      <div class=3D"image-divider" style=3D"border-color: rgb(224, 222, 222=
+); text-align: center; border-top-width: 1px; border-top-style: solid;">
+      </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+    </section><footer><div class=3D"container">
+=09<div class=3D"footer-content">
+=09=09<p>For internal use only. Sent from <a href=3D"https://istweb.apple.c=
+om/composer-help/" target=3D"_blank">IS&T Composer</a>.</p>
+=09</div>
+</div>
+    </footer>
+</div>
+<!-- close wrapper-container -->
+</div>
+<!-- end wrapper-->
+
+
+</body>
+
+</html>
+------=_Part_14796800_2087482618.1623672025248--
